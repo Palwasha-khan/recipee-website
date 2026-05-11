@@ -10,7 +10,8 @@ by MySQL triggers and a fully functional admin-ready database structure.
 
 ## 🌐 Live Demo
 
-👉 [View Live Project](#) <!-- Add your hosting link here -->
+👉 [View Live Project](https://www.linkedin.com/posts/palwasha-khan2201_webengineering-semesterproject-php-activity-7378407675392401408-cY4c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFtL3bEBRqxEZ0-J9_SUAz5v9ZjDeFX4Lvw) 
+ 
  
 ## ✨ Features
 
@@ -268,8 +269,8 @@ PHP/MySQL traditional web development and modern MERN stack
 applications. Passionate about building practical solutions 
 that solve real world problems.
 
-- 🌐 Portfolio: [your-portfolio-link]
-- 💼 LinkedIn: [[your-linkedin-link](https://www.linkedin.com/in/palwasha-khan2201/)] 
+- 🌐 Portfolio: [portfolio] 
+- 💼 LinkedIn: [[linkedin.com/in/palwasha-khan2201/](https://www.linkedin.com/in/palwasha-khan2201/)] 
 
 ## 📄 License
 
